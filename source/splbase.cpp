@@ -35,6 +35,8 @@ Revision_history:
 */
 
 #include <splbase.h>
+#include <iterator>
+
 #ifdef use_namespace
 namespace TSPLINE {
   using namespace NEWMAT;
